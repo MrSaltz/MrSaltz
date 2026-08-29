@@ -16,17 +16,11 @@
 
 `Assembly` · `UEFI` · `QEMU` · `GDB`
 
-<a href="mailto:wydson@.com.br">
-<img src="https://img.shields.io/badge/EMAIL-D14836?style=flat-square&logo=gmail&logoColor=white">
-</a>
+[![EMAIL](https://img.shields.io/badge/EMAIL-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:wydson@.com.br)
 &nbsp;
-<a href="https://linkedin.com/in/" target="_blank">
-<img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=flat-square&logo=linkedin&logoColor=white">
-</a>
+[![LINKEDIN](https://img.shields.io/badge/LINKEDIN-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
 &nbsp;
-<a href="https://github.com/MrSaltz" target="_blank">
-<img src="https://img.shields.io/badge/PORTFOLIO-333333?style=flat-square&logo=googlechrome&logoColor=white">
-</a>
+[![PORTFOLIO](https://img.shields.io/badge/PORTFOLIO-333333?style=flat-square&logo=googlechrome&logoColor=white)](https://github.com/MrSaltz)
 
 <br>
 

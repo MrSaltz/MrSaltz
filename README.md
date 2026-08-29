@@ -22,8 +22,6 @@
 &nbsp;
 [![PORTFOLIO](https://img.shields.io/badge/PORTFOLIO-333333?style=flat-square&logo=googlechrome&logoColor=white)](https://github.com/MrSaltz)
 
-<br>
-
 </div>
 
 ---

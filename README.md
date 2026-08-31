@@ -18,7 +18,7 @@
 
 [![EMAIL](https://img.shields.io/badge/EMAIL-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:wydson@.com.br)
 &nbsp;
-[![LINKEDIN](https://img.shields.io/badge/LINKEDIN-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
+[![LINKEDIN](https://img.shields.io/badge/LINKEDIN-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/wydson)
 &nbsp;
 [![PORTFOLIO](https://img.shields.io/badge/PORTFOLIO-333333?style=flat-square&logo=googlechrome&logoColor=white)](https://github.com/MrSaltz)
 
@@ -82,7 +82,7 @@ Web Development
 
 <div align="center">
 
-<a href="https://github.com/MrSaltz/Lynox">
+<a href="https://github.com/MrSaltz/LynoxOS">
 <img src="https://img.shields.io/badge/EXPLORE-LYNOX-58A6FF?style=for-the-badge&logo=github&logoColor=white">
 </a>
 

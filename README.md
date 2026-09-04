@@ -10,7 +10,7 @@
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=rust,cpp,c,cs,js,ts,react,nodejs,git,docker,linux,cmake&perline=12" />
+<img src="https://skillicons.dev/icons?i=rust,cpp,js,ts,react,nodejs,git,docker,linux,cmake&perline=12" />
 
 <br>
 
